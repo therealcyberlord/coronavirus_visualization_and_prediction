@@ -3,4 +3,5 @@ This repository tracks the spread of the novel coronavirus, also known as SARS-C
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdshs.texas.gov%2FuploadedImages%2FContent%2FConsumer_and_External_Affairs%2Fcoronavirus%2Fbanner.png&f=1&nofb=1" width="100%">
 
-<center><p> Image source: https://dshs.texas.gov/uploadedImages/Content/Consumer_and_External_Affairs/coronavirus/banner.png </p></center>
+
+Image source: https://dshs.texas.gov/uploadedImages/Content/Consumer_and_External_Affairs/coronavirus/banner.png
