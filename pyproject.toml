@@ -5,12 +5,12 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
 attrs = "^21.4.0"
 numpy = "^1.23.2"
 matplotlib = "^3.5.3"
 pandas = "^1.4.4"
 scikit-learn = "^1.1.2"
+python = "^3.9"
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.4.5"
