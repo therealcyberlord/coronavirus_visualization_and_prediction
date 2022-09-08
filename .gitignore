@@ -1,0 +1,18 @@
+# Development files
+*.swp
+
+# Test output files
+tests/*.xml
+tests/cov
+tests/.coverage
+
+# Python files
+*__pycache__
+*.pytest_cache
+
+
+# ide
+.idea/
+
+# jupyter
+.ipynb_checkpoints

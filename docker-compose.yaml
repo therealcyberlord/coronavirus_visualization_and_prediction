@@ -1,0 +1,12 @@
+version: '3'
+services:
+  coronavirus-visualization:
+    image: coronavirus-covid-19-visualization-prediction:latest
+    ports:
+      - 8888:8888
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - ./src:/app/src
+    command: bash -c "poetry run jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root"
+    network_mode: "host"
